@@ -27,7 +27,7 @@ def count_bottles(bottles):
     #once bottle hits 0, this prints the re-stock message
     if bottles == 0:
         print("WE'RE OUT OF BEER!\nTime to buy more bottles of beer.")
-        print('-'*553)
+        print('-'*55)
 
 
 def main():
