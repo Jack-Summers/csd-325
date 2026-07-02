@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1040b183-f0d7-407e-bd4d-2a2b1b732f65" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/module-4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-4/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-4/.idea/module-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-4/Jack_Summers_Module4_2Flowchart.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-4/Old_sitka.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-4/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-4/pyPlot Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-4/sitka_high_low_JSS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-4/sitka_weather_2018_simple.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="3FvMLJTLbr0V5ZSlFOaiE8vIRBR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.sitka_high_low_JSS.executor": "Run",
+    "Python.sitka_highs.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/csd/csd-325"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\csd\csd-325\module-4" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1040b183-f0d7-407e-bd4d-2a2b1b732f65" name="Changes" comment="" />
+      <created>1782951031607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782951031607</updated>
+    </task>
+    <servers />
+  </component>
+</project>
